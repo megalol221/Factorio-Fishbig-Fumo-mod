@@ -1,0 +1,11 @@
+{
+  "name": "FluffyFishbigMod",
+  "version": "1.0",
+  "title": "Fishbig Mod",
+  "author": "Tosino Kyoko, Fluffy Man",
+  "contact": "",
+  "homepage": "",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Fishbig mod by Tosino Kyoko and Fluffy Man",
+  "factorio_version": "2.0"
+}
