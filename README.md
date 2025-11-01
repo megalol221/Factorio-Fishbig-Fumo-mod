@@ -6,6 +6,6 @@ Roadmap:
 
 Change icon #CHECK
 
-Create Sekno-fishbig
+Create Senko-fishbig
 
 Make crafts of Senko and Konata a bit unique
